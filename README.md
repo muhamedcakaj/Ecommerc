@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/6d768d32-3377-485f-ae4e-eedbb35b0761)![2](https://github.com/user-attachments/assets/6ce9e64d-cfd0-4088-9c88-c68110c8fa2e)![3](https://github.com/user-attachments/assets/56809f45-a52a-4e85-8cfd-7e6bb0c3ab48)![4](https://github.com/user-attachments/assets/d502b6ca-0790-4258-8fcd-c71baec3720b)Projekti ynë E-commerce ofron funksionalitete të ndryshme si:
+Projekti ynë E-commerce ofron funksionalitete të ndryshme si:
 - Regjistrimi dhe hyrja e përdoruesve.
 - Shfletimi i produkteve të ndryshme të ofruara nga faqja.
 - Veçimi i produkteve sipas kategorive të ofruara.
